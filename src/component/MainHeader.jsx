@@ -1,4 +1,4 @@
-import { MdPostAdd, MdMessage } from 'react-icons/md';
+import { MdPostAdd, MdMessage, } from 'react-icons/md';
 
 import classes from './MainHeader.module.css';
 
